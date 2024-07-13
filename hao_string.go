@@ -1,0 +1,5 @@
+package HaoSDK
+
+func String() {
+
+}
