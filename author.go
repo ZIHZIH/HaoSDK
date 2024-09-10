@@ -11,3 +11,9 @@ func GetAuthorWechat() string {
 func GetAuthorQQ() string {
 	return "3327619269"
 }
+
+var a int
+
+func test2() string {
+	return ""
+}
